@@ -1,2 +1,0 @@
-# APK
-omnimovil-app
